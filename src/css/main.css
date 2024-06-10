@@ -1,0 +1,16 @@
+.carousel-inner {
+    width: auto;
+    height: 25vh;
+}
+.custom-card {
+    width: 18rem; 
+    display: inline-block; 
+    margin: 20px;
+}
+.footer-container {
+    height: 300px; 
+    background-color: rgb(241, 243, 244);
+}
+.custom-col {
+    margin-top: 100px;
+}
